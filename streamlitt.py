@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # ---- Streamlit Configuration ----
 st.set_page_config(page_title="GFlix Streaming Dashboard", layout="wide")
